@@ -1,2 +1,1 @@
-# my-website
-example for civic design camp workshop on rapid prototyping w/ github pages
+# my-website first try~
